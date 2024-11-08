@@ -17,3 +17,8 @@ And after that I'm going to add other triggers, and thanks to Whisper, I only ne
 - [ ] Command to set an alarm for a certain time
 - [ ] Command for a timer
 - [ ] Command to close lights
+
+
+## Resources
+
+- [Reproducible code article](https://www.coronawhy.org/presentations/reproducible-reusable-code-in-python)
